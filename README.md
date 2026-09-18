@@ -23,11 +23,19 @@ You can contact me via email at [denicardoso1998@gmail.com](mailto:denicardoso19
 
 - Main tools used: **KNIME Analytics Platform, Machine Learning, Power BI**
 
+<p align="center">
+  <img src="https://www.knime.com/sites/default/files/public/2026-03/workflow_12.svg" alt="Strategic Sales Analysis and Forecasting workflow diagram" width="700">
+</p>
+
 ### [Inventory Optimization and Scenario Simulation](https://www.knime.com/templates/inventory-optimization-and-scenario-simulation)
 
 **114 downloads.** Simulates inventory scenarios to support cost vs. service-level trade-off decisions.
 
 - Main tools used: **KNIME Analytics Platform, Simulation, Optimization**
+
+<p align="center">
+  <img src="https://www.knime.com/sites/default/files/public/2026-04/workflow_13.svg" alt="Inventory Optimization and Scenario Simulation workflow diagram" width="700">
+</p>
 
 ### [Strategic Performance Segmentation](https://www.knime.com/templates/strategic-performance-segmentation)
 
@@ -35,11 +43,19 @@ You can contact me via email at [denicardoso1998@gmail.com](mailto:denicardoso19
 
 - Main tools used: **KNIME Analytics Platform, Clustering**
 
+<p align="center">
+  <img src="https://www.knime.com/sites/default/files/public/2026-03/_strategic_performance_segmentation.svg" alt="Strategic Performance Segmentation workflow diagram" width="700">
+</p>
+
 ### [Inventory Cost Optimization and Aging Analysis](https://www.knime.com/templates/inventory-cost-optimization-and-aging-analysis)
 
 **70 downloads.** Analyses inventory aging and cost structure to identify optimization opportunities.
 
 - Main tools used: **KNIME Analytics Platform, Cost Analysis**
+
+<p align="center">
+  <img src="https://www.knime.com/sites/default/files/public/2026-05/workflow_17.svg" alt="Inventory Cost Optimization and Aging Analysis workflow diagram" width="700">
+</p>
 
 ### [Rolling Revenue Forecasting](https://www.knime.com/templates/rolling-revenue-forecasting)
 
@@ -47,11 +63,19 @@ Productionized **train-once / deploy-forward** forecasting blueprint that separa
 
 - Main tools used: **KNIME Analytics Platform, Random Forest, Forecasting**
 
+<p align="center">
+  <img src="https://www.knime.com/sites/default/files/public/2026-03/combined_training_deployment.svg" alt="Rolling Revenue Forecasting workflow diagram" width="700">
+</p>
+
 ### [Sourcing & Procurement Agent for Supplier Negotiation](https://www.knime.com/templates/sourcing-and-procurement-agent)
 
 Agentic AI assistant (**RAG + LLM**) that analyzes supplier proposals and drafts negotiation recommendations, keeping a human in control of every supplier-facing decision.
 
 - Main tools used: **KNIME Analytics Platform, RAG, LLM Integration, Agentic AI**
+
+<p align="center">
+  <img src="https://www.knime.com/sites/default/files/public/2026-08/souring_and_procurement_agent.svg" alt="Sourcing and Procurement Agent workflow diagram" width="700">
+</p>
 
 ## Academic Project
 
