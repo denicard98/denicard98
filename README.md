@@ -1,8 +1,8 @@
 # About Me
 
-Hi, I'm **Denilson Cardoso**, a **Data Analyst / Business Intelligence** professional with an MSc in Business Analytics, 3 years of experience in financial-services compliance, and an international **Data Science internship at KNIME** (Konstanz, Germany).
+Hi, I'm **Denilson Cardoso**, a **Data Analyst / Business Intelligence** professional based in Lisbon, Portugal, with an MSc in Business Analytics, 3 years of experience in financial-services compliance, and an international **Data Science internship at KNIME** (Konstanz, Germany).
 
-I'm currently on the Template Team at KNIME, where I've built and published **6 end-to-end analytics templates** on the KNIME Community Hub (**550+ downloads**), spanning revenue forecasting, customer & product segmentation, inventory optimization, and Agentic AI.
+During my 6-month internship on the KNIME Template Team, I built and published **6 end-to-end analytics templates** on the KNIME Community Hub (**550+ downloads**), spanning revenue forecasting, customer & product segmentation, inventory optimization, and Agentic AI.
 
 My main tools include **Python, SQL, R, Power BI, Excel**, and the **KNIME Analytics Platform**.
 
@@ -57,10 +57,10 @@ Agentic AI assistant (**RAG + LLM**) that analyzes supplier proposals and drafts
 
 ### [Impact of ESG Factors on Corporate Financial Performance](https://github.com/denicard98/esg-financial-performance)
 
-MSc thesis project (ISCTE Business School). Studies the impact of ESG (Environmental, Social, Governance) factors on the financial performance of S&P 500 firms (2019-2023), combining fixed-effects panel econometrics with a Random Forest model.
+MSc thesis (ISCTE Business School, 2026). Studies the impact of ESG (Environmental, Social, Governance) factors on the financial performance of S&P 500 firms (2019-2023), combining fixed-effects panel econometrics with a Random Forest model. Finds no significant linear ESG effect in the panel models, but the Random Forest achieves substantial out-of-sample predictive power (R2 up to 0.55), with opposite and statistically significant effects across sectors (positive in Industrials, negative in Real Estate).
 
 - Main tools used: **Python, pandas, statsmodels, scikit-learn**
-- Status: *in progress*
+- Status: *completed*
 
 ## Certifications
 
