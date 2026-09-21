@@ -86,6 +86,15 @@ MSc thesis (ISCTE Business School, 2026). Studies the impact of ESG (Environment
 - Main tools used: **Python, pandas, statsmodels, scikit-learn**
 - Status: *completed*
 
+## SQL Project
+
+### [Sales & Customer Analytics](https://github.com/denicard98/sales-customer-analytics)
+
+Hands-on SQL portfolio project built while learning SQL Server / T-SQL, using a synthetic sales dataset modeled on a typical e-commerce schema to answer realistic business questions (revenue by country and category, repeat customers, inactive customers, cross-category buyers), with results cross-checked via set operators (EXCEPT/INTERSECT) and a grand-total revenue reconciliation.
+
+- Main tools used: **SQL Server, T-SQL**
+- Status: *in progress*
+
 ## Certifications
 
 - **KNIME** L3-DA, L4-DA & L3-DE
